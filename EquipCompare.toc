@@ -9,6 +9,7 @@
 ## Author: Legorol
 ## Version: 2.9.8
 ## Notes: Compare items easily with ones you have equipped (2.9.8)
+## Notes-ptBR: Permite comparar facilmente os seus itens com aqueles que você tem equipado (2.9.8)
 ## Notes-frFR: Permet de comparer facilement les items avec ceux que vous equipez (2.9.8)
 ## Notes-deDE: Ermöglicht es beliebige Gegenstände mit deiner momentanen Ausrüstung zu vergleichen (2.9.8)
 ## Notes-koKR: 아이템을 비교하기 쉽게 착용중인 아이템을 보여줍니다. (2.9.8)
@@ -22,6 +23,7 @@ localization.fr.lua
 localization.kr.lua
 localization.cn.lua
 localization.tw.lua
+localization.pt.lua
 localization.post.lua
 EquipCompare.lua
 EquipCompare.xml
